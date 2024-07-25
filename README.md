@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Suryavanshi</h1>
-<h3 align="center">A passionate hacker from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 - 🔭 I’m currently studying in **Chandigarh University**
 
